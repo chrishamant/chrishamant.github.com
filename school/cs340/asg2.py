@@ -61,7 +61,7 @@ class Rational:
         if(other.__class__ == int):
             toadd = Rational(other,1)
         if(toadd.__class__ != Rational):
-            raise
+            raise Exception("Bad Other")
         return toadd
     
 
