@@ -1,3 +1,0 @@
-Just some code for assignments for school.
-
-Here mainly for posterity...
